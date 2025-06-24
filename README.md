@@ -1,4 +1,6 @@
-logo.jpg
+<p align="center">
+  <img src="logo.jpg" alt="EcoClear Logo" width="250"/>
+</p>
 
 # EcoClear  
 **Acolher é o primeiro passo para transformar**
