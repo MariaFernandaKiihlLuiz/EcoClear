@@ -1,10 +1,7 @@
 <p align="left">
   <img src="logo.jpg" alt="EcoClear Logo" width="250" />
 </p>
-<style>
-  img
-    border-radius: 10px;
-</style>
+
 
 # EcoClear  
 **Acolher é o primeiro passo para transformar**
