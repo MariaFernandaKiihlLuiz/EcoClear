@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="logo.jpg" alt="EcoClear Logo" width="250"/>
+<p align="left">
+  <img src="logoo.jpg" alt="EcoClear Logo" width="250"/>
 </p>
 
 # EcoClear  
